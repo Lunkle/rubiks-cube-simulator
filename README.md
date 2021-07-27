@@ -1,4 +1,4 @@
-# Rubiks-cube-simulator
+# Rubiks Cube Simulator
 
 This program simulates a rubik’s cube in 3D, and allows the user to manipulate it using keyboard input.
 An index of commands are listed below:
